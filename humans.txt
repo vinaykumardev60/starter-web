@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vinay Kumar -- Programmer analyst -- vinay_rbs
 
 # THANKS
 
