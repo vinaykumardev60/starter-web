@@ -13,3 +13,7 @@ This is not commiting changes. in Home.
 This is not added for changes.
 
 ## contact us
+
+### Copyright
+
+2021 Adding copyright message.
