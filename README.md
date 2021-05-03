@@ -8,6 +8,10 @@ This is not commiting changes. in Home.
 
 ## About
 
+## How to contribute 
+
+Please fork this repository and then issue pull request for review
+
 ## Deployment
 
 This is not added for changes.
