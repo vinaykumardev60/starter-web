@@ -2,6 +2,8 @@
 
 This is a introduction text. and first change before pushing into GItHUB.
 
+Adding a line for rebasing example.
+
 ## Home
 
 This is not commiting changes. in Home.
