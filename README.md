@@ -4,6 +4,8 @@ This is a introduction text. and first change before pushing into GItHUB.
 
 Adding a line for rebasing example, then more changes to my feature branch too.
 
+Updtating after stash
+
 ## Home
 
 This is not commiting changes. in Home.
