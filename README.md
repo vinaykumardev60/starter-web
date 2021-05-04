@@ -22,4 +22,4 @@ This is not added for changes.
 
 ### Copyright
 
-2021 Adding copyright message.
+2021 Adding copyright message. All rights reserved
